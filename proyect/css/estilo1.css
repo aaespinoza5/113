@@ -6,11 +6,11 @@ img
 }
 #caja1
 {
-	background-color:green;
+	background:green;
 }
 #caja2
 {
-	background-color:yellow;
+	background:yellow;
 }
 @media screen and (min-width:500px)
 img
@@ -20,9 +20,9 @@ img
 }
 #caja1
 {
-	background-color:red;
+	background:red;
 }
 #caja2
 {
-	background-color:pink;
+	background:pink;
 }
